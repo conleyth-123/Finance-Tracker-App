@@ -13,7 +13,7 @@ Features
 
 Tech Stack
 
-Frontend: React.js
-Backend: Node.js, Express.js
-Database: MongoDB
-Authentication: Clerk
+- Frontend: React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: Clerk
